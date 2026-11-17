@@ -1,0 +1,8 @@
+{
+  "name": "SakhiKart — Women Empowerment & Rural Handmade Marketplace",
+  "description": "Her Skills. Her Products. Her Independence. A curated Odisha handmade marketplace connecting rural women artisans and Self-Help Groups directly with conscious buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
